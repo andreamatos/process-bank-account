@@ -30,12 +30,6 @@ docker ps
 
 Certainly! Below is the content formatted for a README.md file on GitHub:
 
-markdown
-Copy code
-# Go MongoDB Processing
-
-This guide walks you through setting up a Go program to process bank account data, reading from a JSON file, and updating a MongoDB database.
-
 ## Installation
 
 ### 1. Install Go
